@@ -14,7 +14,7 @@
     "pug": "^3.0.2"
   },
   "description": "lab10",
-  "main": "entrypoint",
+  "main": "app.js",
   "repository": {
     "type": "git",
     "url": "git"
